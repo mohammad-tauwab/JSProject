@@ -1,0 +1,19 @@
+.border-call {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50px;
+}
+
+.border-ctlbr {
+    padding: 5px;
+    margin: 5px;
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.border-ctrbl {
+    padding: 5px;
+    margin: 5px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
